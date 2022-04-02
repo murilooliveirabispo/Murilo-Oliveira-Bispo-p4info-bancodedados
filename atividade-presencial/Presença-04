@@ -1,0 +1,7 @@
+a) Entidade: Entidades são os principais objetos de dados sobre os quais informações devem ser coletadas; elas normalmente representam uma pessoa, lugar, coisa ou evento de interesse informativo.
+b) Relacionamento: Relacionamentos representam associações do mundo real entre uma ou mais entidades e, dessa forma, não possuem existência física ou conceitual além de sua dependência das entidades associadas.
+c) Atributo: Atributos são características de entidades que oferecem  detalhes descritivos sobre elas. Uma ocorrência em particular de um atributo dentro de uma entidade ou relaciona- mento é chamada de valor de atributo.
+d) Dominio de um Atributo:Um domínio é o conjunto de todos os valores possíveis para determinado tipo de atributo, mas pode ser usado para mais de um atributo.
+e) Generalização/especialização:O relacionamento de generalização especifica que vários tipos de entidades com certos atributos comuns podem ser generalizados para  um tipo de entidade de nível superior uma entidade genérica ou superclasse, normalmente conhecida como entidade  supertipo.
+f) Entidade Associativa: Entidades associativas são conexões que descrevem um relacionamento entre duas entidades diferentes. 
+g) Cardinalidade de um Atributo: Seria a contagem  real de elementos associados à conectividade
