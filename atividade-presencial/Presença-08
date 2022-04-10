@@ -1,0 +1,4 @@
+Tabela: são objetos de banco de dados que contêm todos os dados em um banco de dados. Nas tabelas, os dados são organizados de maneira lógica em um formato de linha-e-coluna semelhante ao de uma planilha.
+Chave Primária: Uma chave primária é uma escolha de um conjunto de atributos que identificam unicamente uma tupla (linha) dentro de uma relação (tabela).
+Chave Estrangeira: É a chave que permite a referência a registros oriundos de outras tabelas.
+Chave Alternativa: É a chave candidata que não é usada como chave primária.
