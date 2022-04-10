@@ -1,0 +1,5 @@
+Cardinalidade Máxima: define a quantidade máxima de ocorrências da Entidade que pode participar do Relacionamento.
+Cardinalidade Mínima: define se o relacionamento entre duas entidades é obrigatório ou não.
+1:1: Lado opcional e o lado obrigatório, a chave primária se desloca em direção ao lado opcional.
+1:n: Nesta se leva a chave primária do lado UM para o lado N,Chave Estrangeira é a chave primária de uma entidade que aparece em outra entidade em virtude do relacionamento.
+n:n: Leva para o modelo lógico a necessidade de definição de mais um entidade, logo A Entidade cliente do contrato é necessária para que possamos identificar o contrato de um determinado cliente.
